@@ -1,0 +1,47 @@
+#001 Bulbasaur Grass/Poison Ivysaur
+#002 Ivysaur Grass/Poison Venusaur
+#003 Venusaur Grass/Poison
+#004 Charmander Fire Charmeleon
+#005 Charmeleon Fire Charizard
+#006 Charizard Fire/Flying
+#007 Squirtle Water Wartortle
+#008 Wartortle Water Blastoise
+#009 Blastoise Water
+#010 Caterpie Bug Metapod
+#011 Metapod Bug Butterfree
+#012 Butterfree Bug/Flying
+#013 Weedle Bug/Poison Kakuna
+#014 Kakuna Bug/Poison Beedrill
+#015 Beedrill Bug/Poison
+#016 Pidgey Normal/Flying Pidgeotto
+#017 Pidgeotto Normal/Flying Pidgeot
+#018 Pidgeot Normal/Flying
+#019 Rattata Normal Rattata
+#020 Raticate Normal Raticate
+#021 Spearow Normal/Flying Fearow
+#022 Fearow Normal/Flying
+#023 Ekans Poison Arbok
+#024 Arbok Poison
+#025 Pikachu Electric Raichu
+#026 Raichu Electric
+#027 Sandshrew Ground Sandslash
+#028 Sandslash Ground
+#029 Nidoran(female) Poison
+#030 Nidorina Poison
+#031 Nidoqueen Poison/Ground
+#032 Nidoran(male) Poison
+#033 Nidorino Poison
+#034 Nidoking Poison/Ground
+#035 Clefairy -- Fairy
+#036 Clefable -- Fairy
+#037 Vulpix -- Fire
+#038 Ninetales -- Fire
+#039 Jigglypuff -- Normal/Fairy
+#040 Wigglytuff -- Normal/Fairy
+#041 Zubat -- Poison/Flying
+#042 Golbat -- Poison/Flying
+#043 Oddish -- Grass/Poison
+#044 Gloom Grass/Poison
+#045 Vileplume Grass/Poison
+#046 Paras Bug/Grass
+#047 Parasect Bug/Grass
